@@ -1,6 +1,6 @@
 import { Seb_the_Sports_Statistician, Ian } from "@/configuration/identity";
 
-export const CHAT_HEADER: string = `[CHAT HEADER]`;
+export const Seb_the_Sports_Statistician: string = `[CHAT HEADER]`;
 export const MESSAGE_PLACEHOLDER: string = `[MESSAGE PLACEHOLDER]`;
 export const FOOTER_MESSAGE: string = `Customized AI by Ian White`;
 export const CLEAR_BUTTON_TEXT: string = `[CLEAR BUTTON TEXT]`;
